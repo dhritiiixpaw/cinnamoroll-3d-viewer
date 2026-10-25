@@ -5,7 +5,9 @@ An interactive 3D Cinnamoroll viewer built with Three.js, featuring webcam-based
 ## Overview
 
 Cinnamoroll 3D Viewer is a browser-based project that combines 3D rendering with hand-tracking technology. Users can rotate the character with mouse or touch input, use webcam-based hand movement to control rotation and zoom, and switch between day and night themes.
+![Cinnamoroll 3D Viewer](screenshots/Screenshot%202026-10-25%20222147.png)
 
+![Cinnamoroll 3D Viewer, night view](screenshots/Screenshot%202026-10-25%20222206.png)
 ## Features
 
 - Interactive 3D Cinnamoroll model
